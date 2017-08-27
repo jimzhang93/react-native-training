@@ -1,4 +1,4 @@
-# react-native-training
+# React Native training by Jimmy Zhang
 
 ## Initial set up
 
